@@ -216,51 +216,5 @@
      "img":"fanta.png",
      "categorie":"boisson"
  }
-],
-"menu"  : [
-{
-             "intitule":"Menu Golden",
-             "active": false,
-             "active2": false,
-             "img":"menu-golden.png",
-             "categorie":"menu",
-             "composition": [
-             {
-                "burger": [
-                    {
-                        "id-plat" : "1",
-                    },
-                    {
-                        "id-plat" : "2",
-                    },
-                    {
-                        "id-plat" : "3",
-                    },
-                ]
-             },
-             {
-                "accompagnement": [
-                    {
-                        "id-accompagnement" : "1",
-                    },
-                ]
-             },
-            {
-                "Boisson": [
-                    {
-                        "id-boisson" : "1",
-                    },
-                ]
-             },
-             {
-                "produit-golden": [
-                    {
-                        "id-petite-faim" : "1",
-                    },
-                ]
-             }
-            ]
-         }
-]
-
+    ]
 }
