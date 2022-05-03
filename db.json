@@ -1,5 +1,5 @@
 {
-    "produits" [
+    "produits": [
 {
     "id" : "1",
      "intitule":"CBO",
@@ -217,7 +217,7 @@
      "categorie":"boisson"
  }
 ],
-"menu"  [
+"menu"  : [
 {
              "intitule":"Menu Golden",
              "active": false,
