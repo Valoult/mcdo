@@ -1,8 +1,10 @@
 "produits": [
+    {
     "id" : "1",
      "intitule":"CBO",
      "active": false,
      "active2": false,
      "img":"cbo.png",
-     "categorie":"plat",
+     "categorie":"plat"
+    }
 ]
