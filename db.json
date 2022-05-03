@@ -5,7 +5,7 @@
             "intitule": "CBO",
             "active": false,
             "active2": false,
-            "img": "cbo.png",
+            "img": "CBO.png",
             "categorie": "plat",
             "ingrédients": [
                 {
@@ -198,7 +198,7 @@
             "intitule": "Grande Frites",
             "active": false,
             "active2": false,
-            "img": "grandefrites.png",
+            "img": "grande-frites.png",
             "categorie": "accompagnement"
         },
         {
