@@ -194,55 +194,46 @@
     ],
           "ingredients": [
         {
-        "id-produit": "1",
         "id-ingredient" : "1",
         "intitule": "Salade",
         "img": "salade.png"
         },
          {
-        "id-produit": "1",
         "id-ingredient" : "2",
         "intitule": "Poulet",
         "img": "poulet.png"
         },
          {
-        "id-produit": "1",
         "id-ingredient" : "3",
         "intitule": "Sauce",
         "img": "sauce.png"
          },
         {
-        "id-produit": "1",
         "id-ingredient" : "4",
         "intitule": "Fromage",
         "img": "fromage.png"
          },
          {
-        "id-produit": "1",
         "id-ingredient" : "5",
         "intitule": "Pain",
         "img": "pain.png"
          },
                 {
-        "id-produit": "2",
         "id-ingredient" : "7",
         "intitule": "Viande",
         "img": "viande.png"
          },
                 {
-        "id-produit": "2",
         "id-ingredient" : "8",
         "intitule": "Cornichons",
         "img": "cornichons.png"
          },
                 {
-        "id-produit": "2",
         "id-ingredient" : "9",
         "intitule": "Oignons",
         "img": "oignons.png"
          },
                  {
-        "id-produit": "3",
         "id-ingredient" : "14",
         "intitule": "Tomates",
         "img": "tomates.png"
