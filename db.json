@@ -194,47 +194,47 @@
     ],
           "ingredients": [
         {
-        "id-ingredient" : "1",
+        "idingredient" : "1",
         "intitule": "Salade",
         "img": "salade.png"
         },
          {
-        "id-ingredient" : "2",
+        "idingredient" : "2",
         "intitule": "Poulet",
         "img": "poulet.png"
         },
          {
-        "id-ingredient" : "3",
+        "idingredient" : "3",
         "intitule": "Sauce",
         "img": "sauce.png"
          },
         {
-        "id-ingredient" : "4",
+        "idingredient" : "4",
         "intitule": "Fromage",
         "img": "fromage.png"
          },
          {
-        "id-ingredient" : "5",
+        "idingredient" : "5",
         "intitule": "Pain",
         "img": "pain.png"
          },
                 {
-        "id-ingredient" : "7",
+        "idingredient" : "7",
         "intitule": "Viande",
         "img": "viande.png"
          },
                 {
-        "id-ingredient" : "8",
+        "idingredient" : "8",
         "intitule": "Cornichons",
         "img": "cornichons.png"
          },
                 {
-        "id-ingredient" : "9",
+        "idingredient" : "9",
         "intitule": "Oignons",
         "img": "oignons.png"
          },
                  {
-        "id-ingredient" : "14",
+        "idingredient" : "14",
         "intitule": "Tomates",
         "img": "tomates.png"
                  }
