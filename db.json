@@ -260,108 +260,111 @@
                         }
                     ]
                 }
-            ],
+            ]
+        }
+    ],
           "ingredients": [
         {
-          "id-produit": "1",
-          "id" : "1",
-          "intitule": "Salade",
-          "img": "salade.png"
+        "id-produit": "1",
+        "id-ingredient" : "1",
+        "intitule": "Salade",
+        "img": "salade.png"
         },
          {
-          "id-produit": "1",
-          "id" : "2",
-          "intitule": "Poulet",
+        "id-produit": "1",
+        "id-ingredient" : "2",
+        "intitule": "Poulet",
         "img": "poulet.png"
         },
          {
-          "id-produit": "1",
-          "id" : "3",
-           "intitule": "Sauce",
+        "id-produit": "1",
+        "id-ingredient" : "3",
+        "intitule": "Sauce",
         "img": "sauce.png"
          },
         {
-          "id-produit": "1",
-          "id" : "4",
-           "intitule": "Fromage",
+        "id-produit": "1",
+        "id-ingredient" : "4",
+        "intitule": "Fromage",
         "img": "fromage.png"
          },
          {
-          "id-produit": "1",
-          "id" : "5",
-           "intitule": "Pain",
+        "id-produit": "1",
+        "id-ingredient" : "5",
+        "intitule": "Pain",
         "img": "pain.png"
          },
          {
-          "id-produit": "2",
-          "id" : "6",
-           "intitule": "Salade",
+        "id-produit": "2",
+        "id-ingredient" : "6",
+        "intitule": "Salade",
         "img": "salade.png"
          },
                 {
-          "id-produit": "2",
-          "id" : "7",
-           "intitule": "Viande",
+        "id-produit": "2",
+        "id-ingredient" : "7",
+        "intitule": "Viande",
         "img": "viande.png"
          },
                 {
-          "id-produit": "2",
-          "id" : "8",
-            "intitule": "Cornichons",
+        "id-produit": "2",
+        "id-ingredient" : "8",
+        "intitule": "Cornichons",
         "img": "cornichons.png"
          },
                 {
-          "id-produit": "2",
-          "id" : "9",
-            "intitule": "Oignons",
+        "id-produit": "2",
+        "id-ingredient" : "9",
+        "intitule": "Oignons",
         "img": "oignons.png"
          },
                 {
-          "id-produit": "2",
-          "id" : "10",
-           "intitule": "Sauce",
+        "id-produit": "2",
+        "id-ingredient" : "10",
+        "intitule": "Sauce",
         "img": "sauce.png"
          },
                 {
-          "id-produit": "2",
-          "id" : "11",
-           "intitule": "Pain",
+        "id-produit": "2",
+        "id-ingredient" : "11",
+        "intitule": "Pain",
         "img": "pain.png"
          },
                  {
-          "id-produit": "3",
-          "id" : "12",
-           "intitule": "Salade",
+        "id-produit": "3",
+        "id-ingredient" : "12",
+        "intitule": "Salade",
         "img": "salade.png"
          },
                  {
-          "id-produit": "3",
-          "id" : "13",
-           "intitule": "Poulet",
+        "id-produit": "3",
+        "id-ingredient" : "13",
+        "intitule": "Poulet",
         "img": "poulet.png"
          },
                  {
-          "id-produit": "3",
-          "id" : "14",
-           "intitule": "Tomates",
-           "img": "tomates.png"
+        "id-produit": "3",
+        "id-ingredient" : "14",
+        "intitule": "Tomates",
+        "img": "tomates.png"
+                 },
                  {
-          "id-produit": "3",
-          "id" : "15",
-           "intitule": "Fromage",
+        "id-produit": "3",
+        "id-ingredient" : "15",
+        "intitule": "Fromage",
         "img": "fromage.png"
          },
                  {
-          "id-produit": "3",
-          "id" : "16",
-           "intitule": "Sauce",
+        "id-produit": "3",
+        "id-ingredient" : "16",
+        "intitule": "Sauce",
         "img": "sauce.png"
          },
                  {
-          "id-produit": "3",
-          "id" : "17",
-           "intitule": "Pain",
+        "id-produit": "3",
+        "id-ingredient" : "17",
+        "intitule": "Pain",
         "img": "pain.png"
          }
-
+    ]
 }
