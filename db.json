@@ -260,7 +260,8 @@
                         }
                     ]
                 }
-            ],"ingredients": [
+            ],
+          "ingredients": [
         {
           "id-produit": "1",
           "id" : "1",
@@ -362,5 +363,5 @@
            "intitule": "Pain",
         "img": "pain.png"
          },
-    ]
+    ],
 }
