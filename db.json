@@ -7,28 +7,7 @@
             "active2": false,
             "img": "CBO.png",
             "categorie": "plat",
-            "ingrédients": [
-                {
-                    "intitule": "Salade",
-                    "img": "salade.png"
-                },
-                {
-                    "intitule": "Poulet",
-                    "img": "poulet.png"
-                },
-                {
-                    "intitule": "Sauce",
-                    "img": "sauce.png"
-                },
-                {
-                    "intitule": "Fromage",
-                    "img": "fromage.png"
-                },
-                {
-                    "intitule": "Pain",
-                    "img": "pain.png"
-                }
-            ],
+            "ingrédients": [1,2,3,4,5],
             "allergenes": [
                 {
                     "intitule": "Gluten (blé)",
@@ -47,32 +26,7 @@
             "active2": false,
             "img": "bigmax.png",
             "categorie": "plat",
-            "ingrédients": [
-                {
-                    "intitule": "Salade",
-                    "img": "salade.png"
-                },
-                {
-                    "intitule": "Viande",
-                    "img": "viande.png"
-                },
-                {
-                    "intitule": "Cornichons",
-                    "img": "cornichons.png"
-                },
-                {
-                    "intitule": "Oignons",
-                    "img": "oignons.png"
-                },
-                {
-                    "intitule": "Sauce",
-                    "img": "sauce.png"
-                },
-                {
-                    "intitule": "Pain",
-                    "img": "pain.png"
-                }
-            ],
+            "ingrédients": [1,2,3,4,5],
             "allergenes": [
                 {
                     "intitule": "Gluten (blé)",
@@ -103,32 +57,7 @@
             "active2": false,
             "img": "poutitesalade.png",
             "categorie": "plat",
-            "ingrédients": [
-                {
-                    "intitule": "Salade",
-                    "img": "salade.png"
-                },
-                {
-                    "intitule": "Poulet",
-                    "img": "poulet.png"
-                },
-                {
-                    "intitule": "Tomates",
-                    "img": "tomates.png"
-                },
-                {
-                    "intitule": "Fromage",
-                    "img": "fromage.png"
-                },
-                {
-                    "intitule": "Sauce",
-                    "img": "sauce.png"
-                },
-                {
-                    "intitule": "Pain",
-                    "img": "pain.png"
-                }
-            ],
+           "ingrédients": [1,2,3,4,5],
             "allergenes": [
                 {
                     "intitule": "Céleri",
@@ -294,12 +223,6 @@
         "intitule": "Pain",
         "img": "pain.png"
          },
-         {
-        "id-produit": "2",
-        "id-ingredient" : "6",
-        "intitule": "Salade",
-        "img": "salade.png"
-         },
                 {
         "id-produit": "2",
         "id-ingredient" : "7",
@@ -318,53 +241,11 @@
         "intitule": "Oignons",
         "img": "oignons.png"
          },
-                {
-        "id-produit": "2",
-        "id-ingredient" : "10",
-        "intitule": "Sauce",
-        "img": "sauce.png"
-         },
-                {
-        "id-produit": "2",
-        "id-ingredient" : "11",
-        "intitule": "Pain",
-        "img": "pain.png"
-         },
-                 {
-        "id-produit": "3",
-        "id-ingredient" : "12",
-        "intitule": "Salade",
-        "img": "salade.png"
-         },
-                 {
-        "id-produit": "3",
-        "id-ingredient" : "13",
-        "intitule": "Poulet",
-        "img": "poulet.png"
-         },
                  {
         "id-produit": "3",
         "id-ingredient" : "14",
         "intitule": "Tomates",
         "img": "tomates.png"
                  },
-                 {
-        "id-produit": "3",
-        "id-ingredient" : "15",
-        "intitule": "Fromage",
-        "img": "fromage.png"
-         },
-                 {
-        "id-produit": "3",
-        "id-ingredient" : "16",
-        "intitule": "Sauce",
-        "img": "sauce.png"
-         },
-                 {
-        "id-produit": "3",
-        "id-ingredient" : "17",
-        "intitule": "Pain",
-        "img": "pain.png"
-         }
     ]
 }
