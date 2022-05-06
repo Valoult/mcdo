@@ -194,7 +194,7 @@
     ],
           "ingredients": [
         {
-        "idingredient" : "1",
+        "idingredient" : 1,
         "intitule": "Salade",
         "img": "salade.png"
         },
